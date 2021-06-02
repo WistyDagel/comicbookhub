@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "comicbookhubd2ec767f": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
